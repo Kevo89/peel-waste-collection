@@ -2,7 +2,7 @@
 Peel Waste Collection Schedules in Digital Format
 
 ## Collection Schedules
-Collection takes place 4 days a week - Monday, Tuesday, Wednesday, and Thursday.  An area is assigned a day as well as a collection subzone - either A or B.  A and B alternate between garbage and recycling pick up on different weeks.
+Collection takes place 4 days a week - Monday, Tuesday, Wednesday, and Thursday.  An exception happens on certain holidays - where collection is shifted by 1 day, except if the collection day falls on Christmas Day or Boxing Day, which which it is delayed 2 days. An area is assigned a day as well as a collection subzone - either A or B.  A and B alternate between garbage and recycling pick up on different weeks.
 
 ## General Collection Information
 * Organics is picked up weekly, every week of the year.
