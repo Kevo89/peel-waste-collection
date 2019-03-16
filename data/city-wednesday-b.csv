@@ -1,0 +1,53 @@
+Sequence,CollectionDate,Garbage,Recycle,Organic,YardWaste,TreePickup,SpecialCollection,Notes
+City-Wednesday-B,2019-01-03,,y,y,,,,Pickup delayed one day
+City-Wednesday-B,2019-01-09,y,,y,,,,
+City-Wednesday-B,2019-01-16,,y,y,,y,,
+City-Wednesday-B,2019-01-23,y,,y,,,,
+City-Wednesday-B,2019-01-30,,y,y,,,,
+City-Wednesday-B,2019-02-06,y,,y,,,,
+City-Wednesday-B,2019-02-13,,y,y,,,,
+City-Wednesday-B,2019-02-21,y,,y,,,,Pickup delayed one day
+City-Wednesday-B,2019-02-27,,y,y,,,,
+City-Wednesday-B,2019-03-06,y,,y,,,,
+City-Wednesday-B,2019-03-13,,y,y,y,,,
+City-Wednesday-B,2019-03-20,y,,y,y,,,
+City-Wednesday-B,2019-03-27,,y,y,y,,,
+City-Wednesday-B,2019-04-03,y,,y,y,,,
+City-Wednesday-B,2019-04-10,,y,y,y,,,
+City-Wednesday-B,2019-04-18,y,,y,y,,,
+City-Wednesday-B,2019-04-24,,y,y,y,,Battery,
+City-Wednesday-B,2019-05-01,y,,y,y,,,
+City-Wednesday-B,2019-05-08,,y,y,y,,,
+City-Wednesday-B,2019-05-15,y,,y,y,,,
+City-Wednesday-B,2019-05-23,,y,y,y,,,Pickup delayed one day
+City-Wednesday-B,2019-05-29,y,,y,y,,,
+City-Wednesday-B,2019-06-05,,y,y,y,,,
+City-Wednesday-B,2019-06-12,y,,y,y,,,
+City-Wednesday-B,2019-06-19,,y,y,y,,,
+City-Wednesday-B,2019-06-26,y,,y,y,,Garbage Exemption,
+City-Wednesday-B,2019-07-04,,y,y,y,,,Pickup delayed one day
+City-Wednesday-B,2019-07-10,y,,y,,,,
+City-Wednesday-B,2019-07-17,,y,y,y,,,
+City-Wednesday-B,2019-07-24,y,,y,,,,
+City-Wednesday-B,2019-07-31,,y,y,y,,,
+City-Wednesday-B,2019-08-08,y,,y,,,,Pickup delayed one day
+City-Wednesday-B,2019-08-14,,y,y,y,,,
+City-Wednesday-B,2019-08-21,y,,y,,,,
+City-Wednesday-B,2019-08-28,,y,y,y,,,
+City-Wednesday-B,2019-09-05,y,,y,,,,Pickup delayed one day
+City-Wednesday-B,2019-09-11,,y,y,y,,,
+City-Wednesday-B,2019-09-18,y,,y,,,Garbage Exemption,
+City-Wednesday-B,2019-09-25,,y,y,y,,,
+City-Wednesday-B,2019-10-02,y,,y,y,,,
+City-Wednesday-B,2019-10-09,,y,y,y,,,
+City-Wednesday-B,2019-10-17,y,,y,y,,,Pickup delayed one day
+City-Wednesday-B,2019-10-23,,y,y,y,,Battery,
+City-Wednesday-B,2019-10-30,y,,y,y,,,
+City-Wednesday-B,2019-11-06,,y,y,y,,,
+City-Wednesday-B,2019-11-13,y,,y,y,,,
+City-Wednesday-B,2019-11-20,,y,y,y,,,
+City-Wednesday-B,2019-11-27,y,,y,y,,,
+City-Wednesday-B,2019-12-04,,y,y,y,,,
+City-Wednesday-B,2019-12-11,y,,y,y,,,
+City-Wednesday-B,2019-12-18,,y,y,,,,
+City-Wednesday-B,2019-12-27,y,,y,,,,Pickup delayed two days
